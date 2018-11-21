@@ -80,3 +80,8 @@ Hi Rick,
 I believe week 5 was the most challanging so far...anyway, its great advanced information and I believe we are getting something out of this course.
 
 For this week's assignment "Provide a REST Service that serves JSON from NodeJS", I did create four buttons and uploaded the following files in Dajti's Folder: ajaxWorbench.html, server.js, and README.md found at the following URL: https://github.com/432386/Group_5/tree/Dajti's-Folder  
+
+
+Please find the final page below:
+https://abreazeale.github.io/gang_of_5/dajti.html
+Thank you Rick, its been a great class!
